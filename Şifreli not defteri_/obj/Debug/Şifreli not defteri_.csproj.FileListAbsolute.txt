@@ -1,0 +1,41 @@
+C:\Users\nazar\Desktop\Şifreli not defteri_\bin\Debug\Şifreli not defteri_.exe.config
+C:\Users\nazar\Desktop\Şifreli not defteri_\bin\Debug\Şifreli not defteri_.exe
+C:\Users\nazar\Desktop\Şifreli not defteri_\bin\Debug\Şifreli not defteri_.pdb
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.dosyaları_görme.resources
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.Form1.resources
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.menu.resources
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.notları_okuma.resources
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.Properties.Resources.resources
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.yeni_not.resources
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.exe
+C:\Users\nazar\Desktop\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.pdb
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\bin\Debug\Şifreli not defteri_.exe.config
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\bin\Debug\Şifreli not defteri_.exe
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\bin\Debug\Şifreli not defteri_.pdb
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.dosyaları_görme.resources
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.Form1.resources
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.menu.resources
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.notları_okuma.resources
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.Properties.Resources.resources
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.yeni_not.resources
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.exe
+C:\Users\nazar\Desktop\proje\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.pdb
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\bin\Debug\Şifreli not defteri_.exe
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\bin\Debug\Şifreli not defteri_.pdb
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.dosyaları_görme.resources
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.Form1.resources
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.menu.resources
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.notları_okuma.resources
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.Properties.Resources.resources
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli_not_defteri_.yeni_not.resources
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.exe
+C:\Users\nazar\Desktop\PROJELERİM\Şifreli not defteri_\obj\Debug\Şifreli not defteri_.pdb
